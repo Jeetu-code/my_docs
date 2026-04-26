@@ -171,10 +171,10 @@ Ask these 3 tie-breaker questions (rate 1–5):
 
 Now if you have decided let's dive into your choosen path:
 
+
 1. [AI Engineer](./ai-engineer.md)
 1. Content Creation (comming soon)
-//1. [Content Creation](./content-creation.md)
 1. Game Development (comming soon)
-//1. [Game Development](./game-development.md)
 
-
+<!--1. [Game Development](./game-development.md)-->
+<!--1. [Content Creation](./content-creation.md)-->

@@ -24,4 +24,4 @@ Then what are we waiting for let's get started.
 ## Setup
 
 * Now let's make a good programmer setup to gain full power of the system. [click here](./coding-setup.md)
-* It is very important to organise whatever you are learning daily/weekly. [click here](./How-to-Organise-your-Larning.md)
+* It is very important to organise whatever you are learning daily/weekly. (Comming Soon)<!-- [click here](./How-to-Organise-your-Larning.md)-->
